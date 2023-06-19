@@ -1,0 +1,10 @@
+spring security
+-	spring bean configuration လုပ်ပေးရမယ်
+-	bean configuration လုပ်လို့ရလာတဲ့ security filter တွေကို servlet filter တွေကနေ သုံးနိုင်အောင် configure လုပ်ပေးရမယ်
+
+Spring Bean Configuration
+-	who can access
+-	how to login
+-	how to find user
+
+Security Filter Chains -> Security Filters -> Share Beans
